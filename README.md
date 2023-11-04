@@ -1,4 +1,4 @@
-# Spam Detection System using CodeSoft
+# Spam Detection System 
 
 ![Spam Detection](spam_detection.png)
 
